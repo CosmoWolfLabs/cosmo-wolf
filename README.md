@@ -1,24 +1,17 @@
-👋 Hi, I'm Harshvardhan
-🚀 Student Developer & Automation Enthusiast
-I bridge the gap between complex problems and efficient solutions using Python, JavaScript, and C++. I’m passionate about building tools that save time and exploring the evolving world of AI.
+A 🚀 Student Developer using Python, JavaScript, and C++. I’m passionate about building tools that save time and exploring the evolving world of AI.
 
 🛠 Technical Toolbox
 
 Programming Languages: Python, JavaScript, C++
 
-🪛 Developer Tools : Git & GitHub, VS Code , Cursor
+🪛 Developer Tools : Git & GitHub, VS Code , GitHub copilot
 
 🧠 Key Interests: Automation Scripts, AI-based Tools, Productivity Software
 
 🔭 What I'm Doing Now
-Refining Logic: Mastering problem-solving and programming fundamentals.
 Building: Developing automation and productivity tools to streamline workflows.
 Exploring: Diving into AI and assistant-style applications.
-
-🎯 2026 Goals
-Build useful real-world projects that solve actual problems.
-Contribute meaningfully to the open-source community.
-Keep improving every single day as a developer.
+Goofing around: Creating drawings and random programs 
 
 📫 Let's Connect!
 To keep things secure and avoid email spam, please reach out via:
